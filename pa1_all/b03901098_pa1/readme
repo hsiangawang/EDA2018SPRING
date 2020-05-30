@@ -1,0 +1,6 @@
+//To compile :
+g++ rvi.cpp -o rvi
+
+//To execute :
+./rvi testcaseX.in testcaseX.lp
+(X for the different testcase)
